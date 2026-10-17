@@ -38,6 +38,10 @@ You don't need to install anything to use this data. You can:
 
 This dataset compilation is released into the public domain under **The Unlicense**. You are free to copy, modify, publish, use, or distribute it for any purpose, commercial or non-commercial, without asking for permission.
 
+## Limited
+
+The limited field is not populated in this snapshot and should not be trusted.
+
 ## Disclaimer
 
 This is an unofficial community dataset. It is not affiliated with, endorsed by, or sponsored by Roblox Corporation. Item names, descriptions, and metadata belong to their respective owners. This data is provided for archival and research purposes.
