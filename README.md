@@ -34,10 +34,6 @@ You don't need to install anything to use this data. You can:
 * Download the files directly and open them in Excel, Google Sheets, or your preferred text editor.
 * Fetch the raw files directly into your Python, JavaScript, or Lua projects via the GitHub Raw URL.
 
-## License
-
-This dataset compilation is released into the public domain under **The Unlicense**. You are free to copy, modify, publish, use, or distribute it for any purpose, commercial or non-commercial, without asking for permission.
-
 ## Data Quirks
 
 Note: The price column contains integers and the string "Free/Offsale". Please clean this in your code if you are doing numerical analysis.
@@ -45,6 +41,10 @@ Note: The price column contains integers and the string "Free/Offsale". Please c
 ## Limited
 
 The limited field is not populated in this snapshot and should not be trusted.
+
+## License
+
+This dataset compilation is released into the public domain under **The Unlicense**. You are free to copy, modify, publish, use, or distribute it for any purpose, commercial or non-commercial, without asking for permission.
 
 ## Disclaimer
 
